@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "416d78965768d024937a9afbdf761063",
+    "revision": "32d80163495f20d3040ea3f8c8db2431",
     "url": "/GifExpertApp/index.html"
   },
   {
-    "revision": "861cde9762696f58fa96",
+    "revision": "4b6686195411e943e264",
     "url": "/GifExpertApp/static/css/main.4ccc54c2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GifExpertApp/static/js/2.56c56de3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "861cde9762696f58fa96",
-    "url": "/GifExpertApp/static/js/main.52b764bc.chunk.js"
+    "revision": "4b6686195411e943e264",
+    "url": "/GifExpertApp/static/js/main.859af4e5.chunk.js"
   },
   {
     "revision": "23ec801f39a39732997e",
